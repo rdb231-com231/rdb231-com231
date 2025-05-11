@@ -1,5 +1,5 @@
-# Hello
-> I'm a Brazilian New Programmer who codes for fun, that's all.
+# MewPlush GitHub Account
+> I'm a Brazilian New Programmer who codes for fun! You can reach me at ***`discord`***: **`@mew.plush`**.
 
 Check my language [`Nebula`](https://github.com/rdb231-com231/pyneb)!
 > PyNeb é o principal interpretador para Nebula, uma linguagem de programação simples em português para iniciantes; Nebula é uma linguagem com funções variadas, incluindo: váriaveis, expressões matemáticas, lógica, loop, funções, imports e mais!
