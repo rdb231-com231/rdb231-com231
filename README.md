@@ -1,18 +1,9 @@
-# INFORMATIONS - MewPlush
-```js
-  console.log('HELLO!');
-  // WELCOME TO MY ACCOUNT
-```
+# Hello
+> I'm a Brazilian New Programmer who codes for fun, that's all.
 
+Check my language [`Nebula`](https://github.com/rdb231-com231/pyneb)!
+> PyNeb é o principal interpretador para Nebula, uma linguagem de programação simples em português para iniciantes; Nebula é uma linguagem com funções variadas, incluindo: váriaveis, expressões matemáticas, lógica, loop, funções, imports e mais!
 
-- 👋 Hi, I’m @rdb231-com231, or MewPlush
-- 👀 I’m interested in: Learning how to code for fun.
-- 🌱 I’m currently learning: Game Creatio and some languages like: TypeScript and Python.
-- 💞️ I’m looking to collaborate on: Small projects to have the experience of coding together.
-- 📫 How to reach me: DISCORD: @mew.plush
+Check my VS Code extensions [`skyblue`](https://github.com/rdb231-com231/skyblue) and [`Nebula VS Code Support`](https://github.com/rdb231-com231/vsnebula).
 
-<!---
-rdb231-com231/rdb231-com231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+I'm willing to collab on projects and always open for ideas.
